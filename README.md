@@ -1,0 +1,1 @@
+# mabeati-delegate-app
